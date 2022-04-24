@@ -1,16 +1,16 @@
 {
-  "name": "create-mern-app",
-  "version": "1.0.0",
+  "name": "new-mern-app",
+  "version": "1.0.1",
   "description": "A CLI tool to generate mern stack starter code in a jiffy",
   "bin": {
-    "create-mern-app": "./index.js"
+    "create": "./index.js"
   },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": {
-    "name": "Cameron Thompson and Meer Hamza"
+    "name": "Meer Hamza"
   },
   "license": "MIT",
   "keywords": [
